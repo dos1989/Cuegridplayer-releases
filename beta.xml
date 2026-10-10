@@ -1,1 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>CueGridPlayer Beta</title></channel></rss>
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>CueGridPlayer Beta</title><item><title>0.1.0-beta.1</title><sparkle:channel>beta</sparkle:channel><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/dos1989/Cuegridplayer-releases/releases/download/v0.1.0-beta.1/CueGridPlayer.zip" sparkle:version="1" sparkle:shortVersionString="0.1.0" sparkle:edSignature="sA/PYXILZ2ZQ5rCSA6GjPMkPgLRxcOqxImb4hR2LfcZ3N8/kh24OHrB5fEwHzkDPK1UtxLdtx+45Y5GyTMLPDg==" length="1408636" type="application/octet-stream" /></item></channel></rss>

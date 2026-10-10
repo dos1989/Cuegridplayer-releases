@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "build": 1,
+      "channel": "beta",
+      "hash": "7a86bb8c3cfd35a8da8c5ca63088cbe9e4d439903d5be2a330071f662bbb537a",
+      "length": 1408636,
+      "signature": "sA/PYXILZ2ZQ5rCSA6GjPMkPgLRxcOqxImb4hR2LfcZ3N8/kh24OHrB5fEwHzkDPK1UtxLdtx+45Y5GyTMLPDg==",
+      "url": "https://github.com/dos1989/Cuegridplayer-releases/releases/download/v0.1.0-beta.1/CueGridPlayer.zip",
+      "version": "0.1.0-beta.1"
+    }
+  ]
+}
