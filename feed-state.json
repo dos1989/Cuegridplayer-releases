@@ -17,6 +17,15 @@
       "signature": "c5FOfLZNbmmE0Yef4cnc95oe4SQH0AJrWY+C71yZHGkiX8pQVRtJFQA5vWZUVhuYxpR5/tmj2atEj7Rf+/nBBA==",
       "url": "https://github.com/dos1989/Cuegridplayer-releases/releases/download/v0.1.0-beta.2/CueGridPlayer.zip",
       "version": "0.1.0-beta.2"
+    },
+    {
+      "build": 3,
+      "channel": "beta",
+      "hash": "64f0cb4d5b29841c8af80de9ebb5aaa787e6843a449f2361f54457dbb3c613b7",
+      "length": 1609049,
+      "signature": "DA5FYM9Bs2FIgDo/xGVqc65EQuAGB6lxby+1Rqn0kDTkS1kwIxLiMy1YoDtPHEwqDj/OArEF37C0YFEVea0HBw==",
+      "url": "https://github.com/dos1989/Cuegridplayer-releases/releases/download/v0.1.0-beta.3/CueGridPlayer.zip",
+      "version": "0.1.0-beta.3"
     }
   ]
 }
